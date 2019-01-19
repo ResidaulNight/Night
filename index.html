@@ -43,11 +43,11 @@
 
 <body>
     <div id="loading-bar-wrapper">
-  <div id="loading-bar" class="pure"></div>
+  <div id="loading-bar" class="material"></div>
 </div>
 
     <script>setLoadingBarProgress(20)</script>
-    <header class="l_header pure">
+    <header class="l_header material">
 	<div class="wrapper">
 		<div class="nav-main container container--flex">
       <a class="logo flat-box" href="/">
@@ -158,14 +158,19 @@
     
       
         
-      
-    
-    
-      
-        <div class="post-wrapper">
-          <article class="post reveal ">
+          <div class="post-wrapper">
+            <article class="post reveal ">
     
 <section class="meta">
+  
+    
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
+  <div class="aplayer" data-theme="" data-mini="true" data-mode="circulation" data-server="tencent" data-type="song" data-id="107535757" data-volume="0.7">
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
+
+
   
   <div class="meta" id="header-meta">
     
@@ -192,6 +197,10 @@
     
 
     
+      <div class="metatag top">
+        <i class="fas fa-angle-double-up fa-fw" aria-hidden="true"></i>&nbsp;博客简介
+      </div>
+    
 
   </div>
 </section>
@@ -217,7 +226,11 @@
     </section>
 </article>
 
-        </div>
+          </div>
+        
+      
+    
+    
       
     
 </section>
@@ -239,7 +252,7 @@
       
       
         <section class="author">
-  <div class="content pure">
+  <div class="content material">
     
       <div class="avatar">
         <img class="avatar" src="http://t1.aixinxi.net/o_1d1ibjmihpkj1cjtf82i1fkba.jpg-w.jpg">
@@ -279,12 +292,12 @@
       
         <section class="plain">
   
-<header class="pure">
+<header class="material">
   <div><i class="fas fa-bullhorn fa-fw" aria-hidden="true"></i>&nbsp;&nbsp;注意!</div>
   
 </header>
 
-  <div class="content pure">
+  <div class="content material">
     <p>这里是Residaul Night的博客～</p>
 
   </div>
@@ -307,12 +320,12 @@
         
   <section class="tagcloud">
     
-<header class="pure">
+<header class="material">
   <div><i class="fas fa-fire fa-fw" aria-hidden="true"></i>&nbsp;&nbsp;热门标签</div>
   
 </header>
 
-    <div class="content pure">
+    <div class="content material">
       <a href="/tags/personal/" style="font-size: 14px; color: #999">personal</a>
     </div>
   </section>
@@ -420,6 +433,8 @@
 
   
   
+  
+    
   
   
     <script src="/js/app.js"></script>

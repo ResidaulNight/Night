@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-19T01:12:24.136Z</updated>
+  <updated>2019-01-19T10:43:12.116Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/01/18/Welcome/"/>
     <id>http://yoursite.com/2019/01/18/Welcome/</id>
     <published>2019-01-18T14:35:11.000Z</published>
-    <updated>2019-01-19T01:12:24.136Z</updated>
+    <updated>2019-01-19T10:43:12.116Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello"><a href="#Hello" class="headerlink" title="Hello!"></a>Hello!</h1><p>这里是<em>Residaul Night</em>的个人博客，基于<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo</a>&amp;&amp;<a href="https://github.com/" target="_blank" rel="noopener">github</a>搭建的静态博客。也是我人生中第一个blog。</p><h1 id="这是什么？"><a href="#这是什么？" class="headerlink" title="这是什么？"></a>这是什么？</h1><p>在这个blog上，主要会发表一些我的一些idea和编程笔记。至于编程，我只是一个刚接触<strong>c++</strong>的普及组选手而已（初中苣蒻，勿喷）。但我坚信，我会在OI的道路上砥砺前行的。</p><h1 id="长风破浪会有时，直挂云帆济沧海。"><a href="#长风破浪会有时，直挂云帆济沧海。" class="headerlink" title="长风破浪会有时，直挂云帆济沧海。"></a>长风破浪会有时，直挂云帆济沧海。</h1><p>不管有没有人看得到，不管我会不会在这个博客上坚持下去，但这里总是一个梦想开始的地方，isn’t it?</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">cout</span>&lt;&lt;<span class="string">"Hello World!"</span>&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
